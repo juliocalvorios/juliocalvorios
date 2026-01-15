@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juliocalvorios/juliocalvorios/main/banner.svg" alt="The Julio Calvo Archive" width="100%" />
+<img src="https://raw.githubusercontent.com/juliocalvorios/juliocalvorios/main/archive-header.svg" alt="The Julio Calvo Archive" width="100%" />
 
 <br/><br/>
 
