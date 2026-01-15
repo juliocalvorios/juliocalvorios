@@ -13,5 +13,5 @@ Building interfaces where business goals, design, and engineering meet.
 <br/>
 
 ---
-<sub>Featured projects below ↓</sub>
+
 </div>
