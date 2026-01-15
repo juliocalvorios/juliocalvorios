@@ -10,8 +10,4 @@ Building interfaces where business goals, design, and engineering meet.
 
 **[Portfolio](https://juliocalvorios.com)** · **[Email](mailto:juliocalvorios@gmail.com)** · **[LinkedIn](https://linkedin.com/in/juliocalvorios)**
 
-<br/>
-
----
-
 </div>
