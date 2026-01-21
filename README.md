@@ -4,7 +4,7 @@
 
 <br/>
 
-### Frontend Engineer · Toronto, ON
+### Frontend Developer · Toronto, ON
 
 Building interfaces where business goals, design, and engineering meet.
 
