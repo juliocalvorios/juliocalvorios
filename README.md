@@ -4,7 +4,7 @@
 
 <br/>
 
-### Frontend Developer · Toronto, ON
+### Creative Developer · Toronto, ON
 
 Building interfaces where business goals, design, and engineering meet.
 
